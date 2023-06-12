@@ -1,0 +1,13 @@
+prefix=/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out
+exec_prefix=${prefix}
+includedir=/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include
+libdir=/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/lib
+
+Name: GLFW
+Description: A multi-platform library for OpenGL, window and input
+Version: 3.4.0
+URL: https://www.glfw.org/
+Requires.private:  x11
+Libs: -L${libdir} -lglfw3
+Libs.private:  -lrt -lm -ldl
+Cflags: -I${includedir}

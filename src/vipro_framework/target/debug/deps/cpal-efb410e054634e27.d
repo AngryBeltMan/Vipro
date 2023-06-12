@@ -1,0 +1,13 @@
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/deps/cpal-efb410e054634e27.rmeta: /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs
+
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/deps/cpal-efb410e054634e27.d: /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs /home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs
+
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/lib.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/error.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/mod.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/mod.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/alsa/enumerate.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/host/null/mod.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/platform/mod.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/samples_formats.rs:
+/home/ericbruh/.cargo/registry/src/github.com-1ecc6299db9ec823/cpal-0.15.2/src/traits.rs:

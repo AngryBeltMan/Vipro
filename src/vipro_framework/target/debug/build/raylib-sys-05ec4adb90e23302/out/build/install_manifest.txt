@@ -1,0 +1,9 @@
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/lib/libraylib.a
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include/raylib.h
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include/rlgl.h
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include/physac.h
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include/raymath.h
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/include/raudio.h
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/lib/pkgconfig/raylib.pc
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/ericbruh/Downloads/vipro/src/vipro_framework/target/debug/build/raylib-sys-05ec4adb90e23302/out/lib/cmake/raylib/raylib-config.cmake
