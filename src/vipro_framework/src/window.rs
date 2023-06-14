@@ -1,9 +1,11 @@
 use raylib::prelude::*;
 use crate::renderer;
+#[derive(Debug)]
 pub struct Window {
     handle:RaylibHandle,
     thread:RaylibThread
 }
+#[derive(Debug,Clone)]
 pub struct VVector2 {
     pub x:f32,
     pub y:f32

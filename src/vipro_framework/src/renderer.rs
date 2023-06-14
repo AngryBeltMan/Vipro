@@ -23,4 +23,11 @@ impl<'a> Renderer<'a> {
     pub fn set_background(&mut self,r:u8,g:u8,b:u8) {
         self.drawer.clear_background(Color::new(r, g, b, 255));
     }
+    /// Draws the shapes on to the window
+    pub fn render_object(&mut self,shape:&impl Render) {
+        shape.draw(&mut self.drawer);
+    }
+}
+pub trait Render {
+    fn draw(&self,draw_tool:&mut RaylibDrawHandle);
 }
